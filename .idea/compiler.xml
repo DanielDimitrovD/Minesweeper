@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Minesweeper-task_main" target="11" />
+      <module name="Minesweeper-task_test" target="11" />
+      <module name="Problems-Even_numbers_go_first_main" target="11" />
+      <module name="Problems-Even_numbers_go_first_test" target="11" />
+      <module name="Problems-Which_brackets_are_balanced_main" target="11" />
+      <module name="Problems-Which_brackets_are_balanced_test" target="11" />
+      <module name="Problems-Working_with_queue_main" target="11" />
+      <module name="Problems-Working_with_queue_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
